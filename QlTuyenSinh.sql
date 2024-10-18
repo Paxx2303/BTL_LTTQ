@@ -6,7 +6,7 @@ CREATE TABLE Users (
     Username NVARCHAR(50) NOT NULL UNIQUE,
     Password NVARCHAR(255) NOT NULL,
     FullName NVARCHAR(100),
-	AnhDaiDien NVARCHAR(50),
+    Avatar NVARCHAR(50),
     Email NVARCHAR(100),
     PhoneNumber NVARCHAR(20),
     Role NVARCHAR(10) CHECK (Role IN ('admin', 'student')) NOT NULL,
@@ -16,12 +16,11 @@ CREATE TABLE Profiles (
     ProfileID INT PRIMARY KEY IDENTITY(1,1),
     UserID INT NOT NULL,
     FullName NVARCHAR(100),
-    DOB DATE,
-	AnhDaiDien NVARCHAR(50),
+    Born DATE,
+    PersonImage NVARCHAR(50),
     Gender NVARCHAR(10) CHECK (Gender IN ('Male', 'Female')),
     Address NVARCHAR(255),
     HighSchool NVARCHAR(255),
-    GPA DECIMAL(3, 2),
     Status NVARCHAR(20) CHECK (Status IN ('Pending', 'Paid', 'Reviewed')) DEFAULT 'Pending',
     FOREIGN KEY (UserID) REFERENCES Users(UserID) ON DELETE CASCADE
 );
@@ -30,7 +29,7 @@ CREATE TABLE Universities (
     UniversityName NVARCHAR(255) NOT NULL,
     Location NVARCHAR(255),
     ContactInfo NVARCHAR(255),
-	AnhTruong NVARCHAR(50),
+    CollegeImage NVARCHAR(50),
     Website NVARCHAR(255)
 );
 CREATE TABLE Majors (
