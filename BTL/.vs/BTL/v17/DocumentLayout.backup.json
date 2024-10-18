@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,8 +45,80 @@
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMain.Designer.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
+              "RelativeDocumentMoniker": "AdminMain.Designer.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
+              "RelativeToolTip": "AdminMain.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:17:28.756Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminMain.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
+              "RelativeDocumentMoniker": "AdminMain.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
+              "RelativeToolTip": "AdminMain.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:08:21.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMain.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
+              "RelativeDocumentMoniker": "AdminMain.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs [Design]",
+              "RelativeToolTip": "AdminMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:07:45.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BTL",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
+              "RelativeDocumentMoniker": "BTL.csproj",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
+              "RelativeToolTip": "BTL.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T17:06:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:26:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -35,14 +127,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T16:26:43.404Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             }
           ]
         }
