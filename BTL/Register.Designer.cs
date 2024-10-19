@@ -321,6 +321,7 @@
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "Register";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Register";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
