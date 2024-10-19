@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\btl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:btl.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\quanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\quanlynganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlynganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\quanlykithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlykithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\quanlyhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlyhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +79,145 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BTL",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
+              "RelativeDocumentMoniker": "BTL.csproj",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
+              "RelativeToolTip": "BTL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T16:14:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Payment.cs",
+              "RelativeToolTip": "Payment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:14:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HienDiemUser.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\HienDiemUser.cs",
+              "RelativeDocumentMoniker": "HienDiemUser.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\HienDiemUser.cs [Design]",
+              "RelativeToolTip": "HienDiemUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:34:21.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:26:49.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:26:51.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:03:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:59:45.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyThanhToan.cs [Design]",
+              "RelativeToolTip": "QuanLyThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:20:29.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInterface.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\UserInterface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:13:59.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyNganhHoc.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyNganhHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyNganhHoc.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyNganhHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:37:29.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyKiThi.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyKiThi.cs",
+              "RelativeDocumentMoniker": "QuanLyKiThi.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyKiThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:21:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanLyHoTro.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyHoTro.cs",
+              "RelativeDocumentMoniker": "QuanLyHoTro.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:21:50.726Z"
             },
             {
               "$type": "Bookmark",
@@ -54,79 +229,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminMain.Designer.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
-              "RelativeDocumentMoniker": "AdminMain.Designer.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
-              "RelativeToolTip": "AdminMain.Designer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "QuanLyHoSo.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\QuanLyHoSo.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSo.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoSo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:17:28.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T14:25:07.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminMain.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeDocumentMoniker": "AdminMain.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeToolTip": "AdminMain.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:08:21.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T15:18:46.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminMain.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeDocumentMoniker": "AdminMain.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs [Design]",
-              "RelativeToolTip": "AdminMain.cs [Design]",
+              "DocumentIndex": 14,
+              "Title": "HienDiemUser.cs",
+              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\HienDiemUser.cs",
+              "RelativeDocumentMoniker": "HienDiemUser.cs",
+              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\HienDiemUser.cs",
+              "RelativeToolTip": "HienDiemUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:07:45.79Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BTL",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
-              "RelativeDocumentMoniker": "BTL.csproj",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
-              "RelativeToolTip": "BTL.csproj",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T17:06:28.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:26:49.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:26:43.404Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-19T14:38:04.368Z"
             }
           ]
         }

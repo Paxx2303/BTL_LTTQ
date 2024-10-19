@@ -1,30 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\",
+  "WorkspaceRootPath": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\quanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlythanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:adminmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\quanlynganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlynganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\quanlykithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlykithi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\quanlyhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlyhotro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:quanlyhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|c:\\users\\wangt\\onedrive\\documents\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq-main\\btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|c:\\users\\wangt\\onedrive\\documents\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq-main\\btl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:btl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|c:\\users\\wangt\\onedrive\\documents\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq-main\\btl\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|d:\\btl_lttq\\btl_lttq\\btl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|c:\\users\\wangt\\onedrive\\documents\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq-main\\btl\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|c:\\users\\wangt\\onedrive\\documents\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\btl_lttq-main\\btl\\hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E803F636-CC19-48AD-ACDD-7A3CB5A324F2}|BTL.csproj|solutionrelative:hiendiemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,99 +62,177 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyHoTro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoTro.cs",
+              "RelativeDocumentMoniker": "QuanLyHoTro.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoTro.cs [Design]",
+              "RelativeToolTip": "QuanLyHoTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:21:50.726Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLyKiThi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyKiThi.cs",
+              "RelativeDocumentMoniker": "QuanLyKiThi.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyKiThi.cs [Design]",
+              "RelativeToolTip": "QuanLyKiThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:21:10.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyNganhHoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyNganhHoc.cs",
+              "RelativeDocumentMoniker": "QuanLyNganhHoc.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyNganhHoc.cs [Design]",
+              "RelativeToolTip": "QuanLyNganhHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:37:29.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInterface.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\UserInterface.cs [Design]",
+              "RelativeToolTip": "UserInterface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:13:59.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanLyThanhToan.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyThanhToan.cs [Design]",
+              "RelativeToolTip": "QuanLyThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:20:29.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyHoSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoSo.cs",
+              "RelativeDocumentMoniker": "QuanLyHoSo.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\QuanLyHoSo.cs [Design]",
+              "RelativeToolTip": "QuanLyHoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:25:07.985Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Payment.cs",
+              "RelativeDocumentMoniker": "Payment.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Payment.cs [Design]",
+              "RelativeToolTip": "Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:26:51.198Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:59:45.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HienDiemUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\HienDiemUser.cs",
+              "RelativeDocumentMoniker": "HienDiemUser.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\HienDiemUser.cs [Design]",
+              "RelativeToolTip": "HienDiemUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:34:21.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:26:49.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminMain.Designer.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
-              "RelativeDocumentMoniker": "AdminMain.Designer.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.Designer.cs",
-              "RelativeToolTip": "AdminMain.Designer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAANAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:17:28.756Z",
+              "WhenOpened": "2024-10-19T15:03:48.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminMain.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeDocumentMoniker": "AdminMain.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeToolTip": "AdminMain.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:08:21.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T15:18:46.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminMain.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs",
-              "RelativeDocumentMoniker": "AdminMain.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\AdminMain.cs [Design]",
-              "RelativeToolTip": "AdminMain.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "HienDiemUser.cs",
+              "DocumentMoniker": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\HienDiemUser.cs",
+              "RelativeDocumentMoniker": "HienDiemUser.cs",
+              "ToolTip": "C:\\Users\\wangt\\OneDrive\\Documents\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\L\u1EADp Tr\u00ECnh Tr\u1EF1c Quan\\BTL_LTTQ-main\\BTL\\HienDiemUser.cs",
+              "RelativeToolTip": "HienDiemUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T17:07:45.79Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BTL",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
-              "RelativeDocumentMoniker": "BTL.csproj",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\BTL.csproj",
-              "RelativeToolTip": "BTL.csproj",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T17:06:28.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:26:49.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\BTL_LTTQ\\BTL_LTTQ\\BTL\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:26:43.404Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-19T14:38:04.368Z"
             }
           ]
         }
