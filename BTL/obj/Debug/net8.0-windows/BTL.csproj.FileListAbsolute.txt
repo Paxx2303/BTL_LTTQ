@@ -1,0 +1,74 @@
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.exe
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.pdb
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.AdminMain.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.sourcelink.json
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.pdb
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.USERPROFILE.resources
+C:\Users\wangt\Downloads\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.exe
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.deps.json
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\BTL.pdb
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfo.cs
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.CoreCompileInputs.cache
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\refint\BTL.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.pdb
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.genruntimeconfig.cache
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\ref\BTL.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.UserInterface.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.QuanLyHoSo.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.QuanLyHoTro.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.QuanLyNganhHoc.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.QuanLyThanhToan.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Payment.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.HienDiemUser.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Login.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Register.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.DiemHocBa.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.QuanLyChiTieuNganh.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.NguyenVong.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.ChangePassword.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.AssemblyReference.cache
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.csproj.Up2Date
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.ThongTinVeNguyenVong.resources
+C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.ThemHoSo.resources
