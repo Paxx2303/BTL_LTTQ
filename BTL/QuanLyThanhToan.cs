@@ -16,5 +16,10 @@ namespace BTL
         {
             InitializeComponent();
         }
+
+        private void QuanLyThanhToan_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

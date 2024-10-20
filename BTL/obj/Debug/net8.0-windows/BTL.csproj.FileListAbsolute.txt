@@ -3,8 +3,6 @@ D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.deps.json
 D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.runtimeconfig.json
 D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.dll
 D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\BTL.pdb
-D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.AdminMain.resources
-D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Form1.resources
 D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.csproj.GenerateResource.cache
 D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.GeneratedMSBuildEditorConfig.editorconfig
 D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.AssemblyInfoInputs.cache
@@ -58,3 +56,26 @@ C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Qu
 C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Payment.resources
 C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.HienDiemUser.resources
 C:\Users\wangt\OneDrive\Documents\Tài Liệu Học Tập\Lập Trình Trực Quan\BTL_LTTQ-main\BTL\obj\Debug\net8.0-windows\BTL.Login.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.csproj.AssemblyReference.cache
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.ChangePassword.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.DiemHocBa.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.HienDiemUser.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Login.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.NguyenVong.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Payment.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Properties.Resources.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.QuanLyHoSo.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.QuanLyHoTro.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.QuanLyKiThi.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.QuanLyNganhHoc.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.QuanLyThanhToan.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.Register.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.UserInterface.resources
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.csproj.Up2Date
+D:\BTL_LTTQ\BTL_LTTQ\BTL\obj\Debug\net8.0-windows\BTL.ThemHoSo.resources

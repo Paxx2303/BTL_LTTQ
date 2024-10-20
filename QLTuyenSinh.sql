@@ -10,7 +10,7 @@ create table HoSo (
     NgaySinh date,
     SoDienThoai varchar(15),
     DiaChi nvarchar(255),
-    AnhHoSo varbinary(max)
+    AnhHoSo varchar(50)
 );
 
 create table Users (
@@ -36,7 +36,7 @@ create table HocBa (
 create table Nganh (
     MaNganh int primary key identity,
     MoTa nvarchar(255),
-    AnhNganh varbinary(max)
+    AnhNganh varchar(50)
 );
 
 create table XetTuyen (
