@@ -24,7 +24,7 @@ namespace BTL
             using (SqlConnection connection = new SqlConnection(connect))
             {
                 connection.Open();
-                SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM HoSo", connection);
+                SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM HoTro", connection);
                 DataTable dt = new DataTable();
                 adapter.Fill(dt);
                 dataGridView1.DataSource = dt;

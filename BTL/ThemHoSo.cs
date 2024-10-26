@@ -18,6 +18,17 @@ namespace BTL
         SqlCommand cmd;
         SqlDataAdapter adapter;
         DataTable dt = new DataTable();
+        private void LoadData()
+        {
+            using (SqlConnection connection = new SqlConnection(connect))
+            {
+                connection.Open();
+                SqlDataAdapter adapter = new SqlDataAdapter("SELECT * FROM HoSo", connection);
+                DataTable dt = new DataTable();
+                adapter.Fill(dt);
+               
+            }
+        }
         private void AddHoSo()
         {
             string MaHoSo = textBox1.Text;

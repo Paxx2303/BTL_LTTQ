@@ -40,6 +40,14 @@
             panel2 = new Panel();
             panel3 = new Panel();
             panel1 = new Panel();
+            label1 = new Label();
+            textBox1 = new TextBox();
+            button13 = new Button();
+            button12 = new Button();
+            button11 = new Button();
+            button10 = new Button();
+            button9 = new Button();
+            button8 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             panel4.SuspendLayout();
             panel2.SuspendLayout();
@@ -50,11 +58,13 @@
             // 
             dataGridView1.BackgroundColor = SystemColors.ControlLightLight;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(436, 84);
+            dataGridView1.Location = new Point(368, 63);
+            dataGridView1.Margin = new Padding(3, 2, 3, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(734, 529);
+            dataGridView1.Size = new Size(518, 408);
             dataGridView1.TabIndex = 12;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // panel4
             // 
@@ -67,8 +77,9 @@
             panel4.Controls.Add(button3);
             panel4.Dock = DockStyle.Left;
             panel4.Location = new Point(0, 0);
+            panel4.Margin = new Padding(3, 2, 3, 2);
             panel4.Name = "panel4";
-            panel4.Size = new Size(413, 641);
+            panel4.Size = new Size(362, 481);
             panel4.TabIndex = 11;
             // 
             // button1
@@ -78,9 +89,10 @@
             button1.ForeColor = Color.Black;
             button1.Image = Properties.Resources.icons8_manager_60;
             button1.ImageAlign = ContentAlignment.MiddleLeft;
-            button1.Location = new Point(11, 83);
+            button1.Location = new Point(10, 62);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(384, 77);
+            button1.Size = new Size(336, 58);
             button1.TabIndex = 11;
             button1.Text = "                Quản lý hồ sơ";
             button1.TextAlign = ContentAlignment.MiddleLeft;
@@ -93,13 +105,15 @@
             button5.ForeColor = Color.Black;
             button5.Image = Properties.Resources.icons8_support_50;
             button5.ImageAlign = ContentAlignment.MiddleLeft;
-            button5.Location = new Point(10, 535);
+            button5.Location = new Point(9, 401);
+            button5.Margin = new Padding(3, 2, 3, 2);
             button5.Name = "button5";
-            button5.Size = new Size(383, 77);
+            button5.Size = new Size(335, 58);
             button5.TabIndex = 15;
             button5.Text = "              Quản lý hỗ trợ";
             button5.TextAlign = ContentAlignment.MiddleLeft;
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button2
             // 
@@ -108,9 +122,10 @@
             button2.ForeColor = Color.Black;
             button2.Image = Properties.Resources.icons8_device_manager_64;
             button2.ImageAlign = ContentAlignment.MiddleLeft;
-            button2.Location = new Point(11, 194);
+            button2.Location = new Point(10, 146);
+            button2.Margin = new Padding(3, 2, 3, 2);
             button2.Name = "button2";
-            button2.Size = new Size(384, 77);
+            button2.Size = new Size(336, 58);
             button2.TabIndex = 12;
             button2.Text = "                Quản lý ngành học";
             button2.TextAlign = ContentAlignment.MiddleLeft;
@@ -123,9 +138,10 @@
             button4.ForeColor = Color.Black;
             button4.Image = Properties.Resources.icons8_exam_64;
             button4.ImageAlign = ContentAlignment.MiddleLeft;
-            button4.Location = new Point(10, 423);
+            button4.Location = new Point(9, 317);
+            button4.Margin = new Padding(3, 2, 3, 2);
             button4.Name = "button4";
-            button4.Size = new Size(383, 77);
+            button4.Size = new Size(335, 58);
             button4.TabIndex = 14;
             button4.Text = "                Quản lý chỉ tiêu ngành";
             button4.TextAlign = ContentAlignment.MiddleLeft;
@@ -138,9 +154,10 @@
             button3.ForeColor = Color.Black;
             button3.Image = Properties.Resources.icons8_payment_64;
             button3.ImageAlign = ContentAlignment.MiddleLeft;
-            button3.Location = new Point(12, 307);
+            button3.Location = new Point(10, 230);
+            button3.Margin = new Padding(3, 2, 3, 2);
             button3.Name = "button3";
-            button3.Size = new Size(383, 77);
+            button3.Size = new Size(335, 58);
             button3.TabIndex = 13;
             button3.Text = "                Quản lý thanh toán";
             button3.TextAlign = ContentAlignment.MiddleLeft;
@@ -155,9 +172,9 @@
             button7.Image = Properties.Resources.icons8_menu_32;
             button7.ImageAlign = ContentAlignment.MiddleLeft;
             button7.Location = new Point(1, 1);
-            button7.Margin = new Padding(4);
+            button7.Margin = new Padding(4, 3, 4, 3);
             button7.Name = "button7";
-            button7.Size = new Size(259, 62);
+            button7.Size = new Size(227, 46);
             button7.TabIndex = 13;
             button7.Text = "      ADMIN BOARD";
             button7.TextAlign = ContentAlignment.MiddleLeft;
@@ -171,10 +188,10 @@
             button6.ForeColor = SystemColors.ControlLightLight;
             button6.Image = Properties.Resources.icons8_exit_48;
             button6.ImageAlign = ContentAlignment.MiddleLeft;
-            button6.Location = new Point(1057, 1);
-            button6.Margin = new Padding(4);
+            button6.Location = new Point(925, 1);
+            button6.Margin = new Padding(4, 3, 4, 3);
             button6.Name = "button6";
-            button6.Size = new Size(135, 62);
+            button6.Size = new Size(118, 46);
             button6.TabIndex = 12;
             button6.Text = "        Sign Out";
             button6.TextAlign = ContentAlignment.MiddleLeft;
@@ -188,36 +205,124 @@
             panel2.Controls.Add(panel3);
             panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(0, 0);
+            panel2.Margin = new Padding(3, 2, 3, 2);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1197, 67);
+            panel2.Size = new Size(1047, 50);
             panel2.TabIndex = 14;
             // 
             // panel3
             // 
-            panel3.Location = new Point(0, 63);
+            panel3.Location = new Point(0, 47);
+            panel3.Margin = new Padding(3, 2, 3, 2);
             panel3.Name = "panel3";
-            panel3.Size = new Size(371, 491);
+            panel3.Size = new Size(325, 368);
             panel3.TabIndex = 11;
             // 
             // panel1
             // 
             panel1.BackColor = SystemColors.Window;
             panel1.BorderStyle = BorderStyle.FixedSingle;
+            panel1.Controls.Add(label1);
+            panel1.Controls.Add(textBox1);
+            panel1.Controls.Add(button13);
+            panel1.Controls.Add(button12);
+            panel1.Controls.Add(button11);
+            panel1.Controls.Add(button10);
+            panel1.Controls.Add(button9);
+            panel1.Controls.Add(button8);
             panel1.Controls.Add(dataGridView1);
             panel1.Controls.Add(panel4);
             panel1.Dock = DockStyle.Bottom;
-            panel1.Location = new Point(0, 5);
+            panel1.Location = new Point(0, 3);
+            panel1.Margin = new Padding(3, 2, 3, 2);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1197, 643);
+            panel1.Size = new Size(1047, 483);
             panel1.TabIndex = 13;
+            panel1.Paint += panel1_Paint;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(949, 74);
+            label1.Name = "label1";
+            label1.Size = new Size(59, 15);
+            label1.TabIndex = 20;
+            label1.Text = "Mã Hồ Sơ";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(924, 98);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(103, 23);
+            textBox1.TabIndex = 19;
+           
+            // 
+            // button13
+            // 
+            button13.Location = new Point(933, 388);
+            button13.Name = "button13";
+            button13.Size = new Size(75, 23);
+            button13.TabIndex = 18;
+            button13.Text = "Thoát ";
+            button13.UseVisualStyleBackColor = true;
+            // 
+            // button12
+            // 
+            button12.Location = new Point(933, 147);
+            button12.Name = "button12";
+            button12.Size = new Size(75, 23);
+            button12.TabIndex = 17;
+            button12.Text = "Tìm kiếm ";
+            button12.UseVisualStyleBackColor = true;
+            button12.Click += button12_Click;
+            // 
+            // button11
+            // 
+            button11.Location = new Point(933, 337);
+            button11.Name = "button11";
+            button11.Size = new Size(75, 23);
+            button11.TabIndex = 16;
+            button11.Text = "Xóa";
+            button11.UseVisualStyleBackColor = true;
+            button11.Click += button11_Click;
+            // 
+            // button10
+            // 
+            button10.Location = new Point(933, 280);
+            button10.Name = "button10";
+            button10.Size = new Size(75, 23);
+            button10.TabIndex = 15;
+            button10.Text = "Sửa ";
+            button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
+            // 
+            // button9
+            // 
+            button9.Location = new Point(933, 217);
+            button9.Name = "button9";
+            button9.Size = new Size(75, 23);
+            button9.TabIndex = 14;
+            button9.Text = "Thêm ";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
+            // 
+            // button8
+            // 
+            button8.Location = new Point(0, 0);
+            button8.Name = "button8";
+            button8.Size = new Size(75, 23);
+            button8.TabIndex = 13;
+            button8.Text = "button8";
+            button8.UseVisualStyleBackColor = true;
             // 
             // QuanLyHoTro
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1197, 648);
+            ClientSize = new Size(1047, 486);
             Controls.Add(panel2);
             Controls.Add(panel1);
+            Margin = new Padding(3, 2, 3, 2);
             MaximizeBox = false;
             Name = "QuanLyHoTro";
             Text = "QuanLyHoTro";
@@ -226,6 +331,7 @@
             panel4.ResumeLayout(false);
             panel2.ResumeLayout(false);
             panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -243,5 +349,13 @@
         private Button button2;
         private Button button4;
         private Button button3;
+        private Button button8;
+        private Button button13;
+        private Button button12;
+        private Button button11;
+        private Button button10;
+        private Button button9;
+        private Label label1;
+        private TextBox textBox1;
     }
 }
